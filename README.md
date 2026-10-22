@@ -1,6 +1,6 @@
 # Hi, I'm Mustafa
 
-Robotics engineer with a First-Class Honours BEng in Robotics Engineering. I build robots with ROS2, Arduino, Python, C++ and MATLAB, and I like getting hardware and software working together on a real machine.
+Robotics engineer with a First-Class Honours BEng in Robotics Engineering from the University of Essex. I design complete robotic systems end to end: mechanical design in SolidWorks, electronics and embedded control on Arduino and mbed, and autonomy in ROS2 with C++ and Python. My robots are built and tested on real hardware, not just in simulation.
 
 ## Projects
 
@@ -8,7 +8,7 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering. I bui
 - [Autonomous delivery vehicle](https://github.com/MustafaKhodir/autonomous-delivery-vehicle): a sensor based car that carries medication and snacks to elderly people, with a 3D printed holder. I led the team as Scrum project manager, and designed the 3D printed parts and mounts, the electronics and wiring, and the software architecture, using AutoCAD and SolidWorks. I also wrote the motion code.
 - [DoBot robotic arm](https://github.com/MustafaKhodir/dobot-robotic-arm): forward kinematics, inverse kinematics and trajectory planning in MATLAB for a DoBot Magician arm, plus a Python script that stacks 3D printed pieces with the suction cup.
 - Pepper humanoid robot interface: a team project where we set up a SoftBank Pepper as a hospital assistant that listens for a ward name, gives information about it and guides the visitor there, built in Choregraphe. I led the team and developed the GUI and voice recognition interface.
-- [ROS2 mobile robotics](https://github.com/MustafaKhodir/ros2-mobile-robotics): TurtleBot square path from odometry, laser scanner navigation with SLAM maps, a C++ odometry simulation, and a ROS2 C++ node that drives to a charging station.
+- [ROS2 mobile robotics](https://github.com/MustafaKhodir/ros2-mobile-robotics): TurtleBot square path from odometry, laser scanner navigation with SLAM maps, a C++ odometry simulation, and and landmark based navigation to a charging station in ROS2 C++.
 - [Embedded C on mbed](https://github.com/MustafaKhodir/embedded-c-mbed): a guessing game on an mbed board with keypad, LCD and LED bar talking to a PC over serial, and a keyword counter that scans a text file in one pass.
 - [Virtual Cafe](https://github.com/MustafaKhodir/virtual-cafe-java): a Java client server system where a Barista server brews orders for many Customer clients at once over JSON.
 - [Genetic algorithms in Python](https://github.com/MustafaKhodir/genetic-algorithms-python): my own steady state GA used on ASCII art, function minimisation and a digit riddle, plus symbolic regression with genetic programming on DEAP.
