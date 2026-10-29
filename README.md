@@ -16,7 +16,7 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/dobot-robotic-arm/main/media/photos/dobot-suction-cup-wooden-block.jpg" alt="The DoBot Magician holding a block on its suction cup" width="340">
 
-- Pepper humanoid robot interface: a team project where we set up a SoftBank Pepper as a hospital assistant that listens for a ward name, gives information about it and guides the visitor there, built in Choregraphe. I led the team and developed the GUI and voice recognition interface.
+- [Pepper humanoid robot interface](https://github.com/MustafaKhodir/pepper-hospital-assistant): a team project where we set up a SoftBank Pepper as a hospital assistant that listens for a ward name, gives information about it and guides the visitor there, built in Choregraphe. I led the team, designed the user interface and the logo, ran the project in Jira, worked on part of the Choregraphe programming and led the final presentation.
 
   <img src="media/pepper-choregraphe-hospital-assistant.png" alt="The Hospital Assistant behaviour in Choregraphe, with speech recognition, the ward switch and Pepper in the robot view" width="340">
 
