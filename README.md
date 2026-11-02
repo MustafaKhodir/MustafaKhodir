@@ -46,7 +46,7 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
 ## Skills and tools
 
-- Robotics: ROS2, TurtleBot3, SLAM with Cartographer and RViz, Gazebo simulation, PID control, odometry, laser scanners
+- Robotics: ROS2, TurtleBot3, SLAM with Cartographer and RViz, Gazebo simulation, control theory (state space, root locus), odometry, laser scanners
 - Hardware: Arduino Uno, servo motors, MPU6050 IMU, LEDs and breadboard circuits, mbed, TinkerCAD circuit simulation, Multisim
 - Languages: Python, C++, C, Java, MATLAB
 - CAD and making: TinkerCAD, SolidWorks, AutoCAD, 3D printing
