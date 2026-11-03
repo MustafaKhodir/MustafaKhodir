@@ -1,3 +1,5 @@
+<sub>Copyright 2026 Mustafa Khodir. All rights reserved. Photos, videos and designs may not be reused without permission.</sub>
+
 # Hi, I'm Mustafa
 
 Robotics engineer with a First-Class Honours BEng in Robotics Engineering from the University of Essex. I design complete robotic systems end to end: mechanical design in SolidWorks, electronics and embedded control on Arduino and mbed, and autonomy in ROS2 with C++ and Python. My work covers both physical robot builds and simulation, tested on real hardware wherever I had it.
@@ -44,6 +46,10 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="media/cares-homepage.jpg" alt="The C.A.R.E.S. homepage at heycares.com" width="340">
 
+**What is C.A.R.E.S.?** A 68 second explainer for anyone new to it. © Cares Technologies Ltd
+
+https://github.com/user-attachments/assets/1746980a-d538-4c71-a764-e6b6a3779a8d
+
 ## Skills and tools
 
 - Robotics: ROS2, TurtleBot3, SLAM with Cartographer and RViz, Gazebo simulation, control theory (state space, root locus), odometry, laser scanners
@@ -57,3 +63,5 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
 - Email: [mkhodir77@gmail.com](mailto:mkhodir77@gmail.com)
 - LinkedIn: [linkedin.com/in/mustafakhodir](https://www.linkedin.com/in/mustafakhodir)
+
+Copyright 2026 Mustafa Khodir. All rights reserved. Photos, videos and designs may not be reused without permission.
