@@ -46,9 +46,9 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="media/cares-homepage.jpg" alt="The C.A.R.E.S. homepage at heycares.com" width="340">
 
-**What is C.A.R.E.S.?** A 68 second explainer for anyone new to it. © Cares Technologies Ltd
+  **C.A.R.E.S. in one minute.** © Cares Technologies Ltd
 
-https://github.com/user-attachments/assets/1746980a-d538-4c71-a764-e6b6a3779a8d
+  https://github.com/user-attachments/assets/e7697e9a-3369-43df-9324-1376e6310004
 
 ## Skills and tools
 
