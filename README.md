@@ -1,5 +1,3 @@
-<sub>Copyright 2026 Mustafa Khodir. All rights reserved. Photos, videos and designs may not be reused without permission.</sub>
-
 # Hi, I'm Mustafa
 
 Robotics engineer with a First-Class Honours BEng in Robotics Engineering from the University of Essex. I design complete robotic systems end to end: mechanical design in SolidWorks, electronics and embedded control on Arduino and mbed, and autonomy in ROS2 with C++ and Python. My work covers both physical robot builds and simulation, tested on real hardware wherever I had it.
