@@ -2,6 +2,8 @@
 
 **I build robots from the first sketch to the last line of code, then prove them on real hardware.**
 
+https://github.com/user-attachments/assets/9363b3c3-c5b5-498a-ba6d-ce2eb142ab3d
+
 Robotics engineer with a First-Class Honours BEng in Robotics Engineering from the University of Essex. I design complete robotic systems end to end: mechanical design in SolidWorks, electronics and embedded control on Arduino and mbed, and autonomy in ROS2 with C++ and Python. My work covers both physical robot builds and simulation, tested on real hardware wherever I had it.
 
 ## Projects
