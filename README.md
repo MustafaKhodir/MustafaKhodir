@@ -46,10 +46,6 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="media/cares-homepage.jpg" alt="The C.A.R.E.S. homepage at heycares.com" width="340">
 
-  **C.A.R.E.S. in one minute.** © Cares Technologies Ltd
-
-  https://github.com/user-attachments/assets/e7697e9a-3369-43df-9324-1376e6310004
-
 ## Skills and tools
 
 - Robotics: ROS2, TurtleBot3, SLAM with Cartographer and RViz, Gazebo simulation, control theory (state space, root locus), odometry, laser scanners
