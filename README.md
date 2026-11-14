@@ -32,6 +32,10 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/embedded-c-mbed/main/media/board-game-begins.jpg" alt="The mbed board mid game, with the LCD showing seven guesses left and the LED bar lit" width="340">
 
+- [Electronics labs](https://github.com/MustafaKhodir/electronics-labs): digital and analogue circuits designed in Multisim, then built and measured on the bench. A half adder and full adder timed on a logic analyser, an RS232 transmitter on logic boards, an op amp integrator used to measure capacitance, and a mains power supply characterised stage by stage.
+
+  <img src="https://raw.githubusercontent.com/MustafaKhodir/electronics-labs/main/media/photos/power-supply-board-probes.jpg" alt="The power supply board with two oscilloscope probes on the rectifier and smoothing capacitor" width="340">
+
 - [Virtual Cafe](https://github.com/MustafaKhodir/virtual-cafe-java): a multi client Java server where a Barista brews orders for many Customers at once, talking JSON over TCP.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/virtual-cafe-java/main/media/two-customers-terminal.png" alt="Two customers ordering from the Barista server at the same time" width="340">
@@ -51,7 +55,7 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 ## Skills and tools
 
 - Robotics: ROS2, TurtleBot3, SLAM with Cartographer and RViz, Gazebo simulation, control theory (state space, root locus), odometry, laser scanners
-- Hardware: Arduino Uno, servo motors, MPU6050 IMU, LEDs and breadboard circuits, mbed, TinkerCAD circuit simulation, Multisim
+- Hardware: Arduino Uno, servo motors, MPU6050 IMU, LEDs and breadboard circuits, mbed, TinkerCAD circuit simulation, Multisim, TTL logic, oscilloscopes and bench measurement
 - Languages: Python, C++, C, Java, MATLAB
 - CAD and making: TinkerCAD, SolidWorks, AutoCAD, 3D printing
 - Web: HTML, JavaScript, Node.js, Express, PostgreSQL
