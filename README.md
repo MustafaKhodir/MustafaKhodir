@@ -44,7 +44,11 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/genetic-algorithms-python/main/media/figures/gp-best-solution-vs-target-problem1.png" alt="The evolved expression lying on top of the target curve" width="340">
 
-- [Smaller projects](https://github.com/MustafaKhodir/other-projects): a five in a row minimax player, a polygon drawing app, a world cities app, a binary search tree of prime ministers, C programs and MATLAB maths and control scripts.
+- [Biscuit inspection with OpenCV](https://github.com/MustafaKhodir/biscuit-inspection-opencv): a camera check that sorts photos into whole round biscuits, whole rectangular biscuits or rejects, using colour segmentation and shape measures. 203 of 211 test photos right, about 95% on a held out split.
+
+  <img src="https://raw.githubusercontent.com/MustafaKhodir/biscuit-inspection-opencv/main/media/figures/pipeline-steps.jpg" alt="The biscuit pipeline: outline on the photo, the Lab b channel and the cleaned threshold" width="340">
+
+- [Smaller projects](https://github.com/MustafaKhodir/other-projects): a five in a row minimax player, a polygon drawing app, a world cities app, a binary search tree of prime ministers, a minimum spanning tree, C programs and MATLAB maths and control scripts.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/polygon-drawing-app/screenshot.png" alt="Polygons drawn by the polygon drawing app" width="340">
 
@@ -56,6 +60,7 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
 - Robotics: ROS2, TurtleBot3, SLAM with Cartographer and RViz, Gazebo simulation, control theory (state space, root locus), odometry, laser scanners
 - Hardware: Arduino Uno, servo motors, MPU6050 IMU, LEDs and breadboard circuits, mbed, TinkerCAD circuit simulation, Multisim, TTL logic, oscilloscopes and bench measurement
+- Computer vision: OpenCV, colour segmentation, thresholding, contour and shape analysis
 - Languages: Python, C++, C, Java, MATLAB
 - CAD and making: TinkerCAD, SolidWorks, AutoCAD, 3D printing
 - Web: HTML, JavaScript, Node.js, Express, PostgreSQL
