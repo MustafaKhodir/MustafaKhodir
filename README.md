@@ -44,9 +44,9 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/genetic-algorithms-python/main/media/figures/gp-best-solution-vs-target-problem1.png" alt="The evolved expression lying on top of the target curve" width="340">
 
-- [Biscuit inspection with OpenCV](https://github.com/MustafaKhodir/biscuit-inspection-opencv): a camera check that sorts photos into whole round biscuits, whole rectangular biscuits or rejects, using colour segmentation, shape measures and fail safe rules for overlapped and stacked biscuits. 207 of 211 test photos right with no bad photo passed, about 96% on a held out split.
+- [Biscuit inspection with OpenCV](https://github.com/MustafaKhodir/other-projects/tree/main/biscuit-inspection): a camera check that sorts photos into whole round biscuits, whole rectangular biscuits or rejects, using colour segmentation, shape measures and fail safe rules for overlapped and stacked biscuits. 207 of 211 test photos right with no bad photo passed, about 96% on a held out split.
 
-  <img src="https://raw.githubusercontent.com/MustafaKhodir/biscuit-inspection-opencv/main/media/figures/pipeline-steps.jpg" alt="The biscuit pipeline: outline on the photo, the Lab b channel and the cleaned threshold" width="340">
+  <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/biscuit-inspection/pipeline-steps.jpg" alt="The biscuit pipeline: outline on the photo, the Lab b channel and the cleaned threshold" width="340">
 
 - [Smaller projects](https://github.com/MustafaKhodir/other-projects): a five in a row minimax player, a polygon drawing app, a world cities app, a binary search tree of prime ministers, a minimum spanning tree, C programs and MATLAB maths and control scripts.
 
