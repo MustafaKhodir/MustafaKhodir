@@ -48,6 +48,10 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/biscuit-inspection/pipeline-steps.jpg" alt="The biscuit pipeline: outline on the photo, the Lab b channel and the cleaned threshold" width="340">
 
+- [Counting traffic on London's road cameras](https://github.com/MustafaKhodir/other-projects/tree/main/car-counter): counts vehicles crossing a line on real Transport for London JamCam footage, split by direction, with background subtraction, blob tracking and a counting line tuned per camera. 89% agreement with my own hand count on held out clips.
+
+  <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/car-counter/counter-steps.jpg" alt="The car counter on the A12: tracked vehicles, the median background and the moving pixels" width="340">
+
 - [Smaller projects](https://github.com/MustafaKhodir/other-projects): a five in a row minimax player, a polygon drawing app, a world cities app, a binary search tree of prime ministers, a minimum spanning tree, C programs and MATLAB maths and control scripts.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/polygon-drawing-app/screenshot.png" alt="Polygons drawn by the polygon drawing app" width="340">
@@ -60,7 +64,7 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
 - Robotics: ROS2, TurtleBot3, SLAM with Cartographer and RViz, Gazebo simulation, control theory (state space, root locus), odometry, laser scanners
 - Hardware: Arduino Uno, servo motors, MPU6050 IMU, LEDs and breadboard circuits, mbed, TinkerCAD circuit simulation, Multisim, TTL logic, oscilloscopes and bench measurement
-- Computer vision: OpenCV, colour segmentation, thresholding, contour and shape analysis
+- Computer vision: OpenCV, colour segmentation, thresholding, contour and shape analysis, background subtraction and object tracking
 - Languages: Python, C++, C, Java, MATLAB
 - CAD and making: TinkerCAD, SolidWorks, AutoCAD, 3D printing
 - Web: HTML, JavaScript, Node.js, Express, PostgreSQL
