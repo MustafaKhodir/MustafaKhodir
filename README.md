@@ -28,7 +28,7 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/ros2-mobile-robotics/main/media/photos/turtlebot-in-the-arena.jpg" alt="The TurtleBot3 in the test arena with the pillars it navigates around" width="340">
 
-- [Embedded C on mbed](https://github.com/MustafaKhodir/embedded-c-mbed): a guessing game on an mbed board with keypad, LCD and LED bar talking to a PC over serial, and a keyword counter that scans a text file in one pass.
+- [Embedded C and C++ on mbed](https://github.com/MustafaKhodir/embedded-c-mbed): a guessing game on an mbed board with keypad, LCD and LED bar talking to a PC over serial, and a keyword counter that scans a text file in one pass.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/embedded-c-mbed/main/media/board-game-begins.jpg" alt="The mbed board mid game, with the LCD showing seven guesses left and the LED bar lit" width="340">
 
@@ -44,7 +44,7 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/genetic-algorithms-python/main/media/figures/gp-best-solution-vs-target-problem1.png" alt="The evolved expression lying on top of the target curve" width="340">
 
-- [Biscuit inspection with OpenCV](https://github.com/MustafaKhodir/other-projects/tree/main/biscuit-inspection): a camera check that sorts photos into whole round biscuits, whole rectangular biscuits or rejects, using colour segmentation, shape measures and fail safe rules for overlapped and stacked biscuits. 207 of 211 test photos right with no bad photo passed, about 96% on a held out split.
+- [Biscuit inspection with OpenCV](https://github.com/MustafaKhodir/other-projects/tree/main/biscuit-inspection): a camera check that sorts photos into whole round biscuits, whole rectangular biscuits or rejects, using colour segmentation, shape measures and fail safe rules for overlapped and stacked biscuits. 207 of 211 test photos right with no bad photo passed. About 96% on a held out split, with one bad photo passed.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/biscuit-inspection/pipeline-steps.jpg" alt="The biscuit pipeline: outline on the photo, the Lab b channel and the cleaned threshold" width="340">
 
