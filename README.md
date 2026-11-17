@@ -4,23 +4,31 @@
 
 https://github.com/user-attachments/assets/9363b3c3-c5b5-498a-ba6d-ce2eb142ab3d
 
-Robotics engineer with a First-Class Honours BEng in Robotics Engineering from the University of Essex. I design complete robotic systems end to end: mechanical design in SolidWorks, electronics and embedded control on Arduino and mbed, and autonomy in ROS2 with C++ and Python. My work covers both physical robot builds and simulation, tested on real hardware wherever I had it.
+Hi, I'm Mustafa.
+
+I'm a Robotics Engineer with a First-Class Honours degree and a fascination with making things work. I enjoy bringing ideas to life, whether that means writing code, designing mechanisms or figuring out why a perfectly good simulation behaves differently in the real world.
+
+From designing mechanical components in SolidWorks to programming robot behaviour in C++ and Python, I use ROS 2 to bring everything together, enabling robots to sense, navigate and operate autonomously.
+
+For me, engineering is about staying curious, asking better questions and turning that curiosity into something tangible.
+
+Currently open to engineering opportunities.
 
 ## Projects
 
-- [Hybrid-Controlled Seed-Dispensing Robot](https://github.com/MustafaKhodir/seed-robot): a TurtleBot3 that drives itself, avoids obstacles with a laser scanner, and drops seeds from a 3D printed pot every two seconds using an Arduino, a servo and an IMU driven set of status lights.
+- [Hybrid-Controlled Seed-Dispensing Robot](https://github.com/MustafaKhodir/seed-robot): A TurtleBot3 that drives itself, avoids obstacles with a laser scanner, and drops seeds from a 3D printed pot every two seconds using an Arduino, a servo and an IMU driven set of status lights.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/seed-robot/main/media/photos/robot-front.jpg" alt="The seed robot: a TurtleBot3 with the Arduino on top and the 3D printed seed pot on the side" width="340">
 
-- [Autonomous delivery vehicle](https://github.com/MustafaKhodir/autonomous-delivery-vehicle): a proof of concept for a sensor based car that carries medication and snacks to elderly people, with a 3D printed holder. I led the team as Scrum project manager, and designed the 3D printed parts and mounts, the electronics and wiring, and the software architecture, using AutoCAD and SolidWorks. I also wrote the motion code.
+- [Autonomous delivery vehicle](https://github.com/MustafaKhodir/autonomous-delivery-vehicle): A proof of concept for a sensor based car that carries medication and snacks to elderly people, with a 3D printed holder. I led the team as Scrum project manager, and designed the 3D printed parts and mounts, the electronics and wiring, and the software architecture, using AutoCAD and SolidWorks. I also wrote the motion code.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/autonomous-delivery-vehicle/main/media/photos/car-front-ultrasonic-sensors.jpg" alt="The delivery car with two ultrasonic sensors on its printed front mount" width="340">
 
-- [DoBot robotic arm](https://github.com/MustafaKhodir/dobot-robotic-arm): forward kinematics, inverse kinematics and trajectory planning in MATLAB for a DoBot Magician arm, plus a Python script that stacks 3D printed pieces with the suction cup.
+- [DoBot robotic arm](https://github.com/MustafaKhodir/dobot-robotic-arm): Forward kinematics, inverse kinematics and trajectory planning in MATLAB for a DoBot Magician arm, plus a Python script that stacks 3D printed pieces with the suction cup.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/dobot-robotic-arm/main/media/photos/dobot-suction-cup-wooden-block.jpg" alt="The DoBot Magician holding a block on its suction cup" width="340">
 
-- [Pepper humanoid robot interface](https://github.com/MustafaKhodir/pepper-hospital-assistant): a team project where we set up a SoftBank Pepper as a hospital assistant that listens for a ward name, gives information about it and guides the visitor there, built in Choregraphe. I led the team, designed the user interface and the logo, ran the project in Jira, worked on part of the Choregraphe programming and led the final presentation.
+- [Pepper humanoid robot interface](https://github.com/MustafaKhodir/pepper-hospital-assistant): A team project where we set up a SoftBank Pepper as a hospital assistant that listens for a ward name, gives information about it and guides the visitor there, built in Choregraphe. I led the team, designed the user interface and the logo, ran the project in Jira, worked on part of the Choregraphe programming and led the final presentation.
 
   <img src="media/pepper-choregraphe-hospital-assistant.png" alt="The Hospital Assistant behaviour in Choregraphe, with speech recognition, the ward switch and Pepper in the robot view" width="340">
 
@@ -28,37 +36,37 @@ Robotics engineer with a First-Class Honours BEng in Robotics Engineering from t
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/ros2-mobile-robotics/main/media/photos/turtlebot-in-the-arena.jpg" alt="The TurtleBot3 in the test arena with the pillars it navigates around" width="340">
 
-- [Embedded C and C++ on mbed](https://github.com/MustafaKhodir/embedded-c-mbed): a guessing game on an mbed board with keypad, LCD and LED bar talking to a PC over serial, and a keyword counter that scans a text file in one pass.
+- [Embedded C and C++ on mbed](https://github.com/MustafaKhodir/embedded-c-mbed): A guessing game on an mbed board with keypad, LCD and LED bar talking to a PC over serial, and a keyword counter that scans a text file in one pass.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/embedded-c-mbed/main/media/board-game-begins.jpg" alt="The mbed board mid game, with the LCD showing seven guesses left and the LED bar lit" width="340">
 
-- [Electronics labs](https://github.com/MustafaKhodir/electronics-labs): digital and analogue circuits designed in Multisim, then built and measured on the bench. A half adder and full adder timed on a logic analyser, an RS232 transmitter on logic boards, an op amp integrator used to measure capacitance, and a mains power supply characterised stage by stage.
+- [Electronics labs](https://github.com/MustafaKhodir/electronics-labs): Digital and analogue circuits designed in Multisim, then built and measured on the bench. A half adder and full adder timed on a logic analyser, an RS232 transmitter on logic boards, an op amp integrator used to measure capacitance, and a mains power supply characterised stage by stage.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/electronics-labs/main/media/photos/power-supply-board-probes.jpg" alt="The power supply board with two oscilloscope probes on the rectifier and smoothing capacitor" width="340">
 
-- [Virtual Cafe](https://github.com/MustafaKhodir/virtual-cafe-java): a multi client Java server where a Barista brews orders for many Customers at once, talking JSON over TCP.
+- [Virtual Cafe](https://github.com/MustafaKhodir/virtual-cafe-java): A multi client Java server where a Barista brews orders for many Customers at once, talking JSON over TCP.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/virtual-cafe-java/main/media/two-customers-terminal.png" alt="Two customers ordering from the Barista server at the same time" width="340">
 
-- [Genetic algorithms in Python](https://github.com/MustafaKhodir/genetic-algorithms-python): my own steady state GA used on ASCII art, a binary optimisation demo and a digit riddle, plus symbolic regression with genetic programming on DEAP.
+- [Genetic algorithms in Python](https://github.com/MustafaKhodir/genetic-algorithms-python): A steady state GA I wrote myself, used on ASCII art, a binary optimisation demo and a digit riddle, plus symbolic regression with genetic programming on DEAP.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/genetic-algorithms-python/main/media/figures/gp-best-solution-vs-target-problem1.png" alt="The evolved expression lying on top of the target curve" width="340">
 
-- [Biscuit inspection with OpenCV](https://github.com/MustafaKhodir/other-projects/tree/main/biscuit-inspection): a camera check that sorts photos into whole round biscuits, whole rectangular biscuits or rejects, using colour segmentation, shape measures and fail safe rules for overlapped and stacked biscuits. 207 of 211 test photos right with no bad photo passed. About 96% on a held out split, with one bad photo passed.
+- [Biscuit inspection with OpenCV](https://github.com/MustafaKhodir/other-projects/tree/main/biscuit-inspection): A camera check that sorts photos into whole round biscuits, whole rectangular biscuits or rejects, using colour segmentation, shape measures and fail safe rules for overlapped and stacked biscuits. 207 of 211 test photos right with no bad photo passed. About 96% on a held out split, with one bad photo passed.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/biscuit-inspection/pipeline-steps.jpg" alt="The biscuit pipeline: outline on the photo, the Lab b channel and the cleaned threshold" width="340">
 
-- [Counting traffic on London's road cameras](https://github.com/MustafaKhodir/other-projects/tree/main/car-counter): counts vehicles crossing a line on real Transport for London JamCam footage, split by direction, with background subtraction, blob tracking and a counting line tuned per camera. 89% agreement with my own hand count on held out clips.
+- [Counting traffic on London's road cameras](https://github.com/MustafaKhodir/other-projects/tree/main/car-counter): Counts vehicles crossing a line on real Transport for London JamCam footage, split by direction, with background subtraction, blob tracking and a counting line tuned per camera. 89% agreement with my own hand count on held out clips.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/car-counter/counter-steps.jpg" alt="The car counter on the A12: tracked vehicles, the median background and the moving pixels" width="340">
 
-- [Smaller projects](https://github.com/MustafaKhodir/other-projects): a five in a row minimax player, a polygon drawing app, a world cities app, a binary search tree of prime ministers, a minimum spanning tree, C programs and MATLAB maths and control scripts.
-
-  <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/polygon-drawing-app/screenshot.png" alt="Polygons drawn by the polygon drawing app" width="340">
-
-- [C.A.R.E.S.](https://heycares.com): the company I founded. A platform that helps older adults live independently, with medication and appointment reminders, an SOS alert to their care circle, and a caregiver portal.
+- [C.A.R.E.S.](https://heycares.com): The company I founded. A platform that helps older adults live independently, with medication and appointment reminders, an SOS alert to their care circle, and a caregiver portal.
 
   <img src="media/cares-homepage.jpg" alt="The C.A.R.E.S. homepage at heycares.com" width="340">
+
+- [Smaller projects](https://github.com/MustafaKhodir/other-projects): A five in a row minimax player, a polygon drawing app, a world cities app, a binary search tree of prime ministers, a minimum spanning tree, C programs and MATLAB maths and control scripts.
+
+  <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/polygon-drawing-app/screenshot.png" alt="Polygons drawn by the polygon drawing app" width="340">
 
 ## Skills and tools
 
