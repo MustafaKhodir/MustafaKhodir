@@ -52,17 +52,17 @@ Currently open to engineering opportunities.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/genetic-algorithms-python/main/media/figures/gp-best-solution-vs-target-problem1.png" alt="The evolved expression lying on top of the target curve" width="340">
 
-- [C.A.R.E.S.](https://heycares.com): The company I founded. A platform that helps older adults live independently, with medication and appointment reminders, an SOS alert to their care circle, and a caregiver portal.
-
-  <img src="media/cares-homepage.jpg" alt="The C.A.R.E.S. homepage at heycares.com" width="340">
-
 - [Biscuit inspection with OpenCV](https://github.com/MustafaKhodir/other-projects/tree/main/biscuit-inspection): A camera check that sorts photos into whole round biscuits, whole rectangular biscuits or rejects, using colour segmentation, shape measures and fail safe rules for overlapped and stacked biscuits. 207 of 211 test photos right with no bad photo passed. About 96% on a held out split, with one bad photo passed.
 
   <img src="https://raw.githubusercontent.com/MustafaKhodir/other-projects/main/biscuit-inspection/pipeline-steps.jpg" alt="The biscuit pipeline: outline on the photo, the Lab b channel and the cleaned threshold" width="340">
 
 - [Counting traffic on London's road cameras](https://github.com/MustafaKhodir/car-counter): Counts vehicles crossing a line on real Transport for London JamCam footage, split by direction, with background subtraction, blob tracking and a counting line tuned per camera. 89% agreement with my own hand count on held out clips.
 
-  <img src="https://raw.githubusercontent.com/MustafaKhodir/car-counter/main/media/counter-steps.jpg" alt="The car counter on the A12: tracked vehicles, the median background and the moving pixels" width="340">
+  <img src="https://raw.githubusercontent.com/MustafaKhodir/car-counter/main/media/demo/car-counter.gif" alt="The car counter running on a London JamCam clip, counting vehicles as they cross the line" width="340">
+
+- [C.A.R.E.S.](https://heycares.com): The company I founded. A platform that helps older adults live independently, with medication and appointment reminders, an SOS alert to their care circle, and a caregiver portal.
+
+  <img src="media/cares-homepage.jpg" alt="The C.A.R.E.S. homepage at heycares.com" width="340">
 
 - [Smaller projects](https://github.com/MustafaKhodir/other-projects): A five in a row minimax player, a polygon drawing app, a world cities app, a binary search tree of prime ministers, a minimum spanning tree, C programs and MATLAB maths and control scripts.
 
